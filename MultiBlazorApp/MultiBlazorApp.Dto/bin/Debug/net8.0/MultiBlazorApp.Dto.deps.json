@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MultiBlazorApp.Dto/1.0.0": {
+        "runtime": {
+          "MultiBlazorApp.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiBlazorApp.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Desktop\3D Objects\Miguel Pinto\RepositorioTutoriales\MultiBlazorApp\MultiBlazorApp\MultiBlazorApp.Dto\bin\Debug\net8.0\MultiBlazorApp.Dto.deps.json
+C:\Users\Desktop\3D Objects\Miguel Pinto\RepositorioTutoriales\MultiBlazorApp\MultiBlazorApp\MultiBlazorApp.Dto\bin\Debug\net8.0\MultiBlazorApp.Dto.dll
+C:\Users\Desktop\3D Objects\Miguel Pinto\RepositorioTutoriales\MultiBlazorApp\MultiBlazorApp\MultiBlazorApp.Dto\bin\Debug\net8.0\MultiBlazorApp.Dto.pdb
+C:\Users\Desktop\3D Objects\Miguel Pinto\RepositorioTutoriales\MultiBlazorApp\MultiBlazorApp\MultiBlazorApp.Dto\obj\Debug\net8.0\MultiBlazorApp.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\3D Objects\Miguel Pinto\RepositorioTutoriales\MultiBlazorApp\MultiBlazorApp\MultiBlazorApp.Dto\obj\Debug\net8.0\MultiBlazorApp.Dto.AssemblyInfoInputs.cache
+C:\Users\Desktop\3D Objects\Miguel Pinto\RepositorioTutoriales\MultiBlazorApp\MultiBlazorApp\MultiBlazorApp.Dto\obj\Debug\net8.0\MultiBlazorApp.Dto.AssemblyInfo.cs
+C:\Users\Desktop\3D Objects\Miguel Pinto\RepositorioTutoriales\MultiBlazorApp\MultiBlazorApp\MultiBlazorApp.Dto\obj\Debug\net8.0\MultiBlazorApp.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\3D Objects\Miguel Pinto\RepositorioTutoriales\MultiBlazorApp\MultiBlazorApp\MultiBlazorApp.Dto\obj\Debug\net8.0\MultiBlazorApp.Dto.sourcelink.json
+C:\Users\Desktop\3D Objects\Miguel Pinto\RepositorioTutoriales\MultiBlazorApp\MultiBlazorApp\MultiBlazorApp.Dto\obj\Debug\net8.0\MultiBlazorApp.Dto.dll
+C:\Users\Desktop\3D Objects\Miguel Pinto\RepositorioTutoriales\MultiBlazorApp\MultiBlazorApp\MultiBlazorApp.Dto\obj\Debug\net8.0\refint\MultiBlazorApp.Dto.dll
+C:\Users\Desktop\3D Objects\Miguel Pinto\RepositorioTutoriales\MultiBlazorApp\MultiBlazorApp\MultiBlazorApp.Dto\obj\Debug\net8.0\MultiBlazorApp.Dto.pdb
+C:\Users\Desktop\3D Objects\Miguel Pinto\RepositorioTutoriales\MultiBlazorApp\MultiBlazorApp\MultiBlazorApp.Dto\obj\Debug\net8.0\ref\MultiBlazorApp.Dto.dll

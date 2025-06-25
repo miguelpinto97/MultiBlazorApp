@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NLZocoGfGcizn9EhR9pK4yCY6xamg+MB3NKqcr8O0Eg=",
+  "Source": "MultiBlazorApp.API",
+  "BasePath": "_content/MultiBlazorApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

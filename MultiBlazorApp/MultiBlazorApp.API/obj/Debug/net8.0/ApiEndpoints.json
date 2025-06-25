@@ -1,0 +1,137 @@
+[
+  {
+    "ContainingType": "MultiBlazorApp.Api.Controllers.Administracion.ParametrosController",
+    "Method": "Guardar",
+    "RelativePath": "api/Parametros",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MultiBlazorApp.Dto.Administracion.Parametros.ParametroValorAddUpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiBlazorApp.Api.Controllers.Administracion.ParametrosController",
+    "Method": "Get",
+    "RelativePath": "api/Parametros/{parametroId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parametroId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MultiBlazorApp.Dto.Administracion.Parametros.ParametroValorDto, MultiBlazorApp.Dto, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MultiBlazorApp.Api.Controllers.Administracion.ParametrosController",
+    "Method": "GetDetalle",
+    "RelativePath": "api/Parametros/{parametroId}/Detalle",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parametroId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MultiBlazorApp.Dto.Administracion.Parametros.ParametroDetalleDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MultiBlazorApp.Api.Controllers.Administracion.ParametrosController",
+    "Method": "GetValores",
+    "RelativePath": "api/Parametros/{parametroId}/Valores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parametroId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "padreId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IDictionary\u00602[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MultiBlazorApp.Api.Controllers.Administracion.ParametrosController",
+    "Method": "Delete",
+    "RelativePath": "api/Parametros/{valorId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "valorId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiBlazorApp.Api.Controllers.Administracion.ParametrosController",
+    "Method": "GetBaseInfo",
+    "RelativePath": "api/Parametros/BaseInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "MultiBlazorApp.Dto.Administracion.Parametros.ParametroValorBaseInfo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
